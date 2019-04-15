@@ -1,0 +1,47 @@
+Hi All,
+
+ 
+
+Please find below trailhead links for the topics covered today.
+
+ 
+
+Salesforce user basics
+
+https://trailhead.salesforce.com/content/learn/modules/lex_salesforce_basics/lex_salesforce_basics_welcome
+
+ 
+
+Salesforce Platform Basics
+
+https://trailhead.salesforce.com/en/content/learn/modules/starting_force_com
+
+             
+
+Sales cloud
+
+https://trailhead.salesforce.com/en/content/learn/trails/discover-sales-cloud
+
+ 
+
+https://trailhead.salesforce.com/en/content/learn/trails/get-started-with-sales-cloud
+
+https://trailhead.salesforce.com/content/learn/modules/sales-cloud-configuration-basics
+
+https://trailhead.salesforce.com/content/learn/modules/leads_opportunities_lightning_experience
+
+ 
+
+Service:
+
+https://trailhead.salesforce.com/en/content/learn/modules/service-cloud-platform-quick-look
+
+https://trailhead.salesforce.com/en/content/learn/trails/service_cloud_move
+
+https://trailhead.salesforce.com/en/content/learn/modules/service_lex
+
+ 
+
+Marketing:
+
+https://trailhead.salesforce.com/en/content/learn/modules/mrkt_cloud_basics
